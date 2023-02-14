@@ -1,0 +1,1330 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-01-24T14:38:53.5546315-06:00</CreatedDate>
+  <FileName>2412021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:38:53.5786356-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:38:53.6096428-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:38:59.5886679-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:04.5725752-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 2</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:09.5746963-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 3</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:12.8974356-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:14.5716052-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 4</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:19.571777-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 5</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:24.570142-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:29.5606706-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 7</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:34.5617578-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 8</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:39.5705688-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 9</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:44.567471-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 10</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:49.5737848-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 11</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:53.5230351-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:54.8814588-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 12</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:55.6980163-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:55.7000167-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:39:59.5707497-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 13</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:04.5745952-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 14</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:09.5679827-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 15</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:14.5688425-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 16</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:19.5697326-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 17</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:24.5616807-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 18</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:29.5667229-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 19</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:34.5749585-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 20</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:39.5718257-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 21</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:44.5741719-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 22</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:49.5751208-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 23</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:54.8167142-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 24</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:40:59.5633337-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 25</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:04.5609225-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 26</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:09.5655501-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 27</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:14.5614952-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 28</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:19.5674442-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 29</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:24.5657129-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 30</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:29.5670565-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 31</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:34.5615618-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 32</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:39.5665173-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 33</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:44.5686122-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 34</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:49.5610904-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 35</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:54.5678641-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 36</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:41:59.5609891-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 37</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:04.5609344-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 38</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:09.565883-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 39</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:14.571588-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 40</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:19.5704794-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 41</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:24.5642978-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 42</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:29.5643187-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 43</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:34.5612641-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 44</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:39.571036-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 45</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:44.5691614-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 46</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:49.5757547-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 47</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:54.5758975-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 48</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:42:59.5622391-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 49</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:04.5693584-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 50</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:09.5659402-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 51</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:14.5638067-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 52</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:19.5650759-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 53</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:24.5747023-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 54</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:29.5631067-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 55</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:34.5633232-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 56</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:39.5709921-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 57</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:44.5618138-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 58</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:49.5634438-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 59</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:54.5717107-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 60</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:43:59.5709783-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 61</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:04.5699266-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 62</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:09.5651923-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 63</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:14.569142-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 64</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:19.5606787-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 65</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:24.5623566-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 66</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:29.5623071-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 67</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:34.567256-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 68</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:39.5642764-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 69</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:44.5687923-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 70</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:49.5617365-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 71</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:54.5713646-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 72</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:44:59.5627815-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 73</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:04.5701858-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 74</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:09.56321-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 75</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:14.5637948-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 76</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:19.5607431-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 77</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:24.5716905-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 78</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:29.5636385-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 79</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:34.5755895-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 80</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:39.56446-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 81</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:44.5627998-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 82</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:49.5624533-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 83</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:54.5715706-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 84</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:45:59.5751276-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 85</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:04.565912-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 86</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:09.5625008-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 87</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:14.5674492-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 88</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:19.5744502-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 89</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:24.5640501-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 90</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:29.5708445-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 91</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:34.5648589-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 92</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:39.572673-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 93</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:44.5650568-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 94</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:49.5720477-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 95</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:54.5673523-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 96</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:46:59.5753015-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 97</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:04.5688433-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 98</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:09.562075-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 99</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:14.5669037-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 100</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:19.5654881-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 101</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:24.572622-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 102</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:29.5700312-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 103</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:34.5705638-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 104</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:40.5881593-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 105</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:44.5647859-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 106</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:49.5684819-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 107</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:54.5736138-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 108</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:47:59.5627013-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 109</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:04.5658729-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 110</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:09.5624862-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 111</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:14.5758952-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 112</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:19.5670614-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 113</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:24.5730104-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 114</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:29.5665925-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 115</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:34.5742242-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 116</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:39.56573-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 117</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:44.562045-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 118</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:49.5621781-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 119</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:54.5662936-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 120</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:48:59.5722809-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 121</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:04.5640156-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 122</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:09.5644956-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 123</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:14.5611214-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 124</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:19.5672833-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 125</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:24.562478-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 126</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:29.5682517-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 127</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:34.5634475-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 128</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:39.5673465-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 129</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:44.5680929-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 130</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:49.5673599-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 131</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:54.5683067-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 132</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:49:59.5612524-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 133</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:04.5612002-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 134</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:09.5616852-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 135</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:14.566645-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 136</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:19.5617484-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 137</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:24.5646599-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 138</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:29.5669185-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 139</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:34.5625264-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 140</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:39.5744662-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 141</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:44.575037-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 142</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:49.5630041-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 143</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:54.5693176-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 144</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:50:59.5812774-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 145</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:04.5635339-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 146</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:09.5621219-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 147</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:14.5680687-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 148</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:19.5630196-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 149</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:24.5726473-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 150</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:29.5705935-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 151</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:34.5724233-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 152</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:39.5638071-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 153</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:44.566078-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 154</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:49.568025-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 155</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:54.5741803-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 156</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:51:59.563414-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 157</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:04.5722303-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 158</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:09.575576-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 159</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:15.5193859-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 160</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:19.5669883-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 161</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:24.5753314-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 162</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:29.568655-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 163</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:34.8154108-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 164</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:39.5728957-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 165</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:44.5719995-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 166</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:49.5659516-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 167</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:54.5659508-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 168</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:52:59.5649611-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 169</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:04.5645202-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 170</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:09.5647902-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 171</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:14.5637375-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 172</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:19.5616838-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 173</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:24.563313-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 174</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:29.5755846-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 175</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:34.5639384-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 176</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:39.5697984-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 177</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:44.5653295-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 178</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:49.5688225-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 179</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:54.5630513-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 180</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:53:59.5653663-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 181</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:04.5738568-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 182</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:09.5710881-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 183</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:14.5670715-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 184</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:19.5686616-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 185</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:24.5766113-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 186</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:29.564555-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 187</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:34.5676603-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 188</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:39.5660644-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 189</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:44.5623983-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 190</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:49.5616678-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 191</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:54.5681496-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 192</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:54:59.5735656-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 193</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:04.5733947-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 194</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:09.5652775-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 195</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:14.5627277-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 196</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:19.5636739-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 197</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:24.5716259-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 198</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:29.5755733-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 199</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:34.5628386-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 200</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:39.5655662-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 201</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:44.5703136-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 202</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:49.5660059-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 203</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:54.5669559-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 204</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:55:59.5693504-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 205</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:04.5755849-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 206</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:09.5661183-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 207</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:14.5685319-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 208</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:19.5730137-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 209</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:24.5642827-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 210</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:29.5641894-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 211</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:34.5634996-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 212</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:39.5708002-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 213</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:44.5757785-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 214</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:49.564982-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 215</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:54.5679308-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 216</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:56:59.5626857-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 217</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:04.5635507-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 218</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:09.5606831-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 219</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:14.5667324-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 220</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:19.5676716-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 221</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:24.5693637-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 222</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:29.562115-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 223</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:34.56597-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 224</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:39.5642675-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 225</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:44.5675495-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 226</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:49.5734454-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 227</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:54.5631451-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 228</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:57:59.5621178-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 229</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:04.5709389-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 230</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:09.5626685-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 231</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:14.5640741-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 232</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:19.5753608-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 233</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:24.564748-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 234</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:29.5670311-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 235</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:34.5620504-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 236</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:39.5650824-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 237</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:44.5653601-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 238</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:49.5654161-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 239</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:54.5688075-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 240</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:58:59.564903-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 241</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:04.5704931-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 242</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:09.573323-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 243</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:14.563706-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 244</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:19.5619761-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 245</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:24.5691708-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 246</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:29.5638733-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 247</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:34.574104-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 248</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:39.5630872-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 249</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:44.5654688-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 250</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:49.5629997-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 251</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:54.5689299-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 252</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T14:59:59.5741998-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 253</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T15:00:04.566291-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 254</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T15:00:09.5657342-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 255</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T15:00:14.562364-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 256</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T15:00:19.5646323-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 257</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T15:00:24.5646126-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 258</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-24T15:00:29.5665973-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 259</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

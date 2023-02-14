@@ -1,0 +1,2593 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-01-09T23:55:07.4648297-06:00</CreatedDate>
+  <FileName>912021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:07.4868349-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:07.5228431-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:07.5868574-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:08.1036372-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:08.1366426-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:08.1728111-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:08.6146376-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 18.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:08.6486322-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:08.6948611-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:09.1400016-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:09.6376114-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:09.6716602-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:09.7072595-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:10.1499502-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 18.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:10.1831035-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:10.229625-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:10.6751597-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:11.1973528-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:11.2310802-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:11.2665294-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:11.7089694-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 18.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:11.7421038-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:11.7895861-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:12.2345688-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:12.7318938-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:12.7655699-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:12.8012822-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:13.2437303-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 18.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:13.276894-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:13.3238791-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:13.7690197-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:14.2917871-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:14.3250786-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:14.3606997-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:14.8032109-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:14.8365248-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:14.8836131-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:15.3284194-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:15.8254804-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:15.8595749-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:15.8951395-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:16.3377271-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:16.3710107-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:16.4180605-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:16.862862-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.3857896-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.4183212-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.4546309-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.739438-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.8971908-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.9305168-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:17.9775204-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:18.4218783-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:18.9202728-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:18.9535596-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:18.9891615-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:19.4317449-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:19.4650063-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:19.5116411-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:19.9563817-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:20.0213809-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:20.4797748-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:20.512374-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:20.5488608-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:20.9912501-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:21.024537-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:21.0717037-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:21.5158654-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:22.014295-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:22.0475515-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:22.0833369-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:22.5253633-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:22.5583374-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:22.605348-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:23.0509201-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:23.5737959-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:23.6070813-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:23.6427765-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:24.0852698-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:24.1181775-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:24.1651894-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:24.609806-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:25.1078188-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:25.1410435-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:25.176833-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:25.6197418-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:25.6530215-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:25.6993536-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:26.1449436-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:26.6678102-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:26.7010732-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:26.7359775-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:27.1792418-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:27.2122493-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:27.2596237-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:27.7045509-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:28.2022305-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:28.2355825-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:28.2706987-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:28.7138978-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 17.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:28.7470503-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:28.7941411-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:29.2387758-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:29.7617409-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:29.7942236-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:29.8302443-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:30.2730232-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 18.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:30.3064861-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:30.3534446-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:30.7983675-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:31.2962368-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:31.328766-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:31.3647628-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:31.8077048-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 18.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:31.840975-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:31.8877682-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:32.3329815-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:32.8557586-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:32.8912801-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:32.9246533-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:33.3672366-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 46.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:33.4004991-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:33.4475816-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:33.8924012-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:34.3898628-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:34.423557-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:34.4592879-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:34.9010742-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 46.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:34.9344045-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:34.9815421-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:35.4266365-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:35.950064-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:35.9832268-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:36.018878-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:36.4608753-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 55.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:36.4938875-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:36.5418932-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:36.9866079-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:37.4845534-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:37.517724-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:37.5533353-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:37.9953859-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 55.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:38.0283938-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:38.075757-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:38.5212436-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:39.0440413-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:39.077345-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:39.1129278-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:39.5552062-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:39.5888611-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:39.6359414-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:40.0800446-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:40.5785514-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:40.6118079-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:40.6475525-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:41.0900027-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:41.1232927-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:41.1703206-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:41.6150281-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:42.1380353-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:42.1715025-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:42.2071404-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:42.6491619-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:42.6829078-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:42.7296859-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:43.1750033-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:43.6726833-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:43.7060116-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:43.7416031-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:44.1841326-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:44.2174245-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:44.26389-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:44.7089431-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:45.2318367-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:45.2658441-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:45.3008524-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:45.7439947-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:45.7773284-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:45.824294-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:46.2691444-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:46.7670056-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:46.8001984-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:46.8358264-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:47.2778683-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:47.3108682-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:47.3588669-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:47.8035664-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:48.3266368-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:48.3595015-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:48.3954768-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:48.8381181-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:48.8713705-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:48.9185144-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:49.3633317-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:49.8606327-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:49.8944317-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:49.9300635-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:50.372635-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:50.4058785-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:50.4529823-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:50.8978688-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:51.4206892-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:51.4541569-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:51.4897003-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:51.932341-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:51.9656095-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:52.0126351-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:52.45695-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:52.9553788-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:52.9886595-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:53.0244274-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:53.4660862-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:53.5001113-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:53.5472095-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:53.9918717-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:54.5151093-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:54.5482712-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:54.5840451-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:55.0265797-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:55.0595732-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:55.1068675-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:55.5510978-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:56.0496078-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:56.0828921-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:56.1185121-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:56.5610649-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 62.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:56.5937877-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:56.6411142-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:57.0862627-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:57.6086868-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:57.6426754-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:57.6782717-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:58.1208645-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 63.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:58.1538689-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:58.2008791-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:58.6459053-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:59.1439033-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:59.1775989-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:59.2129064-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:59.6553737-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 63.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:59.6883626-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:55:59.7348642-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:00.1805803-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:00.703491-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:00.7364874-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:00.7715594-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:01.2144089-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:01.2484174-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:01.2944268-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:01.7402393-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:02.2373777-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:02.2712671-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:02.3070757-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:02.7490383-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:02.7822118-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:02.8298938-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:03.2747725-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:03.7975257-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:03.8302038-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:03.866211-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:04.3088545-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 65.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:04.342264-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:04.3893172-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:04.8343001-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:05.3313657-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:05.3653164-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:05.4010259-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:05.843205-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 65.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:05.8765397-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:05.9237066-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:06.3679559-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:06.8908712-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:06.9248937-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:06.960514-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:07.4030777-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:07.4363362-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:07.4833393-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:07.9283453-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:08.4258663-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:08.4593964-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:08.4948377-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:08.9373734-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:08.9708459-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:09.0180128-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:09.4628224-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:09.9856773-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:10.0188509-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:10.0545074-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:10.4971517-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:10.5298729-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:10.577432-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:11.0224225-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:11.5193467-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:11.5534811-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:11.589136-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:12.0314001-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:12.064168-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:12.1114783-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:12.5566854-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:13.0798658-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:13.11302-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:13.148115-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:13.5905008-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 65.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:13.6244656-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:13.6715524-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:14.1165357-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:14.6142393-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:14.6475365-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:14.6824704-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:15.1256894-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 65.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:15.1589775-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:15.2058136-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:15.6508695-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:16.1738335-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:16.2069441-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:16.242781-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:16.6851259-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:16.7184479-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:16.7657272-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:17.2105282-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:17.7083467-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:17.7416696-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:17.7772502-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:18.2197885-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:18.2530179-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:18.3001827-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:18.7449884-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:19.267886-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:19.3011944-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:19.3360494-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:19.7794244-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:19.8118695-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:19.8597685-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:20.3041556-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:20.8017531-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:20.8357238-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:20.8713098-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:21.3136954-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:21.3471837-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:21.3937486-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:21.8392235-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:22.3615844-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:22.3952966-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:22.4309002-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:22.8734948-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:22.9060773-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:22.953824-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:23.3989729-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:23.8960842-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:23.9300918-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:23.9650994-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:24.4071994-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 64.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:24.4412072-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:24.4882181-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:24.9333184-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:25.4554364-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:25.4894441-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:25.5244519-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:25.9675521-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 63.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:26.00056-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:26.0475702-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:26.4926709-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:26.9907835-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:27.023791-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:27.0597993-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:27.5023714-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 63.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:27.535378-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:27.5823887-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:28.0274891-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:28.5496077-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:28.5836151-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:28.6186228-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:29.0617229-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 61.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:29.0947305-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:29.1417415-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:29.5868415-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:30.0849541-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:30.1179619-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:30.1539697-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:30.59607-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 61.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:30.6290774-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:30.6760879-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:31.1211885-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:31.6443068-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:31.6773145-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:31.7133227-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:32.1554237-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 58.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:32.1894306-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:32.236441-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:32.6805413-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:33.178654-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:33.2116615-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:33.2476695-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:33.6897694-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 58.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:33.7237773-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:33.7707889-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:34.2158897-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:34.7380067-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:34.7720143-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:34.8070221-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:35.2502352-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 55.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:35.2835205-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:35.3305364-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:35.7755192-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:36.2732871-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:36.3065719-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:36.3422357-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:36.7847394-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 55.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:36.8180515-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:36.8651818-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:37.3100281-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:37.8326631-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:37.8660663-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:37.9016568-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:38.3442273-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 50.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:38.3775192-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:38.4245804-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:38.8695693-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:39.3673032-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:39.4005645-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:39.4358527-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:39.8787514-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 50.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:39.9117643-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:39.9590449-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:40.4040282-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:40.9268686-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:40.959291-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:40.9952993-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:41.4379422-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 48.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:41.4712783-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:41.5186297-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:41.9636129-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:42.4609535-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 73.3999938964843750</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:42.494659-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:42.5302713-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:42.9728167-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 48.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:43.0061108-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:43.0532612-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:43.497867-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:44.0209622-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:44.0538702-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:44.0899173-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:44.5318692-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 49.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:44.5657016-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:44.6128614-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:45.0572662-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:45.5554375-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:45.5879157-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:45.6243781-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:46.06691-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 49.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:46.1001711-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:46.1473416-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:46.5921179-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:47.1150263-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:47.1478857-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:47.1839296-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:47.6258962-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 49.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:47.6598709-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:47.7068904-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:48.1517052-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:48.6488961-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:48.682904-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:48.7184275-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:49.1602207-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 49.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:49.1943127-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:49.2408779-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:49.6863338-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:50.2088708-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:50.2424342-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:50.2780067-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:50.720592-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 49.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:50.7538835-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:50.8009316-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:51.2458678-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:51.7436397-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:51.7769307-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:51.8126332-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:52.2552848-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 49.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:52.2883821-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:52.3353927-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:52.7798621-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:53.3032527-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:53.3365471-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:53.3718764-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 0000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:53.814332-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Humidity: 47.0000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:53.847994-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 00000000000000000000000000000000</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:53.8943303-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 000000000000000000000
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:54.3403352-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:54.8378569-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Temperature: 71.5999984741210937</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-09T23:56:54.8710391-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: 50000000000000000000000000000000</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

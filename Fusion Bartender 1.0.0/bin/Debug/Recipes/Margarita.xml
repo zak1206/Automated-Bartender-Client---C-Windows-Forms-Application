@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>Margarita</RecipeName>
+  <RecipeDescription>Margarita On The Rocks.
+Jose Cuervo + Margarita Mix!</RecipeDescription>
+  <Ingredients>
+    <PumpID>1</PumpID>
+    <AmountInFlOz>5</AmountInFlOz>
+    <LiquidName>Jose Cuervo</LiquidName>
+    <DispenseTime>6300</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>3</PumpID>
+    <AmountInFlOz>5</AmountInFlOz>
+    <LiquidName>Margarita Mix</LiquidName>
+    <DispenseTime>6300</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <HasErrors>false</HasErrors>
+  <RecipeRunning>false</RecipeRunning>
+  <RecipeCompleted>false</RecipeCompleted>
+  <PathToIcon>G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Drink Icons\015-matcha.png</PathToIcon>
+</Recipe>

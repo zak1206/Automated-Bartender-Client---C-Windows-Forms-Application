@@ -1,0 +1,206 @@
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csprojAssemblyReference.cache
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Form1.resources
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+D:\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csprojAssemblyReference.cache
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormMainScreen.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.dll
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.xml
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormHome.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormLogViewer.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormSettings.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormCreateRecipe.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormNewsFeed.resources
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormCreateRecipe.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormNewsFeed.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormSettings.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormLogViewer.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormHome.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\AutoLogin.txt
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormGlobalRecipes.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormManualPouring.resources
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySql.Data.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySQL.Utility.dll
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.AssemblyReference.cache
+C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1.FormMainScreen.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\AutoLogin.txt
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySql.Data.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySQL.Utility.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.xml
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.xml
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormCreateRecipe.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormGlobalRecipes.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormManualPouring.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormNewsFeed.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormSettings.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormLogViewer.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormHome.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1.FormMainScreen.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\zrowton\Google Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\AutoLogin.txt
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySql.Data.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySQL.Utility.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.dll
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.xml
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.xml
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.xml
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.xml
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.AssemblyReference.cache
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormCreateRecipe.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormGlobalRecipes.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormManualPouring.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormNewsFeed.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormSettings.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormLogViewer.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormHome.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1.FormMainScreen.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\AutoLogin.txt
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySql.Data.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySQL.Utility.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.xml
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.xml
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.AssemblyReference.cache
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormCreateRecipe.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormGlobalRecipes.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormManualPouring.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormNewsFeed.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormSettings.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormLogViewer.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormHome.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1.FormMainScreen.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+C:\Users\zrowton\Google Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\AutoLogin.txt
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe.config
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.exe
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Fusion Bartender 1.0.0.pdb
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySql.Data.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\MySQL.Utility.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.DotNetBar2.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\DevComponents.Instrumentation.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.AccessControl.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Permissions.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\System.Security.Principal.Windows.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormCreateRecipe.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormGlobalRecipes.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormManualPouring.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormNewsFeed.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormSettings.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormLogViewer.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.FormHome.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1.FormMainScreen.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion_Bartender_1._0._0.Properties.Resources.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.GenerateResource.cache
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CoreCompileInputs.cache
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.CopyComplete
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.exe
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.pdb
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\obj\Debug\Fusion Bartender 1.0.0.csproj.AssemblyReference.cache

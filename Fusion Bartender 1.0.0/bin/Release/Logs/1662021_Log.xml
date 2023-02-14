@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-06-16T21:08:37.0519421-05:00</CreatedDate>
+  <FileName>1662021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:08:37.0709463-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:08:37.1789701-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:08:43.1124598-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:08:48.2033936-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 2</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:08:53.1001755-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 3</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:08:58.0979449-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 4</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:03.0984788-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 5</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:08.0958255-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:10.8449077-05:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:12.7126068-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:12.7136077-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:13.1037679-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 7</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:18.0952462-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 8</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-06-16T21:09:23.0926232-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 9</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

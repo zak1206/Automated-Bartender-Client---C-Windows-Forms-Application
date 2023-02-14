@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FileLocation>C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Settings\Settings.xml</FileLocation>
+  <ArduinoCOMPort>COM6</ArduinoCOMPort>
+  <SecondsPerFluidOZ>1.26</SecondsPerFluidOZ>
+  <MaxHumidityAllowed>50</MaxHumidityAllowed>
+  <MaxInternalTemperatureAllowed>98</MaxInternalTemperatureAllowed>
+  <PumpCount>8</PumpCount>
+  <Pumps>
+    <PumpID>1</PumpID>
+    <LiquidName>Jose Cuervo</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>2</PumpID>
+    <LiquidName>Coke</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>3</PumpID>
+    <LiquidName>Margarita Mix</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>4</PumpID>
+    <LiquidName>Jack Daniels</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>5</PumpID>
+    <LiquidName>Gatorade</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>6</PumpID>
+    <LiquidName>Orange Juice</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>7</PumpID>
+    <LiquidName>Sprite</LiquidName>
+  </Pumps>
+  <Pumps>
+    <PumpID>8</PumpID>
+    <LiquidName>Milk</LiquidName>
+  </Pumps>
+</Settings>

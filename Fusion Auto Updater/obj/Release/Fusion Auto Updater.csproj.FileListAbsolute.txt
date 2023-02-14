@@ -1,0 +1,13 @@
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\bin\Release\Fusion Auto Updater.exe.config
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\bin\Release\Fusion Auto Updater.exe
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\bin\Release\Fusion Auto Updater.pdb
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\bin\Release\DevComponents.DotNetBar2.dll
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\bin\Release\DevComponents.DotNetBar2.xml
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion Auto Updater.csproj.AssemblyReference.cache
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion_Auto_Updater.Form1.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion_Auto_Updater.Properties.Resources.resources
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion Auto Updater.csproj.GenerateResource.cache
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion Auto Updater.csproj.CoreCompileInputs.cache
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion Auto Updater.csproj.CopyComplete
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion Auto Updater.exe
+G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Auto Updater\obj\Release\Fusion Auto Updater.pdb

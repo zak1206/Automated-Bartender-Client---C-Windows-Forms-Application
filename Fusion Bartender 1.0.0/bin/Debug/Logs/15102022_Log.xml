@@ -1,0 +1,238 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-10-15T07:12:10.3468851-07:00</CreatedDate>
+  <FileName>15102022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:11.7789187-07:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:11.7859209-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Manual Pouring Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:11.9547818-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Global Recipes Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:11.9617824-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>News Feed Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.0107931-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>CreateRecipe Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.056804-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>LogViewer Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.0928115-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Home Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.1638294-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.213849-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.213849-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2438557-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2468511-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2498471-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2538486-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2558495-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2568494-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Update Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2568494-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Alert Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2568494-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Reconnect Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2568494-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Timers Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.2578595-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Checking If All Directories Exist.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:12.3707388-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:29.6815441-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] ---------------[PICO] RecipeDL Received!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:29.7695555-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+------------------------
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:12:42.4703534-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::6300:Coke:6300:NONE:0:NONE:0:2:Jack n' Coke
+[PICO] Pump 2 Complete.
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:16:47.9244742-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] ---------------[PICO] RecipeDL Received!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:16:48.0154935-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+------------------------
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:16:48.5187679-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::6300:Coke:6300:NONE:0:NONE:0:2:Jack n' Coke
+[PICO] Pump 1 Running...
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:16:54.7444624-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::6300:Coke:6300:NONE:0:NONE:0:2:Jack n' Coke
+[PICO] Pump 2 Running...
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:17:01.0712866-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::6300:Coke:6300:NONE:0:NONE:0:2:Jack n' Coke
+[PICO] Pump 2 Complete.
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:17:05.0317671-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] ---------------[PICO] RecipeDL Received!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:17:05.088781-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::0:Coke:6300:NONE:0:NONE:0:2:Fresh Can of Coke
+------------------------
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:17:05.5928014-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::0:Coke:6300:NONE:0:NONE:0:2:Fresh Can of Coke
+[PICO] Pump 2 Running...
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:17:11.917838-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::0:Coke:6300:NONE:0:NONE:0:2:Fresh Can of Coke
+[PICO] Pump 2 Complete.
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:17:54.6883683-07:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:18:26.0877007-07:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:18:29.3936568-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] ---------------[PICO] RecipeDL Received!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:18:29.4448034-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+------------------------
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:18:29.9472323-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::0:Coke:12600:NONE:0:NONE:0:2:Coca Cola
+[PICO] Pump 2 Running...
+</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:18:40.2737026-07:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-15T07:18:42.4999118-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>[ARDUINO] 
+DATA::0:Coke:12600:NONE:0:NONE:0:2:Coca Cola
+[PICO] Pump 2 Complete.
+</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

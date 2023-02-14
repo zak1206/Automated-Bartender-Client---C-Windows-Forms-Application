@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-01-08T18:51:30.2431322-06:00</CreatedDate>
+  <FileName>812021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-01-08T18:51:30.2661376-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-08T18:51:30.3121476-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-08T18:51:48.4017448-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-08T18:52:05.9281447-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Margarita2.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-08T18:52:08.517581-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

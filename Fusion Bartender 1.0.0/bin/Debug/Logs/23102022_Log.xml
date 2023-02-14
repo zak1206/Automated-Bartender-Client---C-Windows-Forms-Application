@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-10-23T06:23:30.9780869-06:00</CreatedDate>
+  <FileName>23102022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:31.9446004-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:31.9526029-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Manual Pouring Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:31.9796077-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Global Recipes Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:31.9846088-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>News Feed Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.035621-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>CreateRecipe Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.083633-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>LogViewer Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.1176397-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Home Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2016575-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.244669-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.244669-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2776776-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2806775-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2836788-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2866778-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2886785-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2896786-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Update Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2906798-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Alert Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2906798-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Reconnect Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2906798-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Timers Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:32.2906798-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Checking If All Directories Exist.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:34.6965793-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-23T06:23:37.7286039-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

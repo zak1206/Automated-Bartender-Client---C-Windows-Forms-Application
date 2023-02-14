@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-01-02T21:35:04.0701803-06:00</CreatedDate>
+  <FileName>212021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-01-02T21:35:04.0981868-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-02T21:35:04.1281921-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-02T21:35:11.4548873-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

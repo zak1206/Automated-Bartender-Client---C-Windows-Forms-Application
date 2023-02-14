@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-01-10T00:28:07.7395824-06:00</CreatedDate>
+  <FileName>1012021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-01-10T00:28:07.7635677-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-10T00:28:07.7985758-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-10T00:28:16.3793829-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-10T00:28:20.1251395-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-10T00:28:29.1048412-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

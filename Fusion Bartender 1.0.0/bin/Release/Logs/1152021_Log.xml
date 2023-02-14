@@ -1,0 +1,235 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-05-11T00:24:27.4619916-05:00</CreatedDate>
+  <FileName>1152021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:27.5244953-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:27.7432596-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:40.7864956-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:43.536681-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 2</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:48.5370185-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 3</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:53.5319209-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 4</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:24:58.5468797-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 5</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:03.5353758-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:08.5357129-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 7</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:13.5255854-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 8</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:18.5259222-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 9</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:23.5262613-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 10</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:27.1990933-05:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:28.5353155-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 11</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:33.5368775-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 12</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:38.5372164-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 13</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:43.5342992-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 14</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:47.9108308-05:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:48.5358728-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 15</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:49.7234534-05:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:52.5673954-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:52.5673954-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:53.536212-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 16</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:25:58.5365492-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 17</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:03.5368882-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 18</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:08.5372262-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 19</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:13.5375644-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 20</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:18.537903-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 21</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:23.7882583-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 22</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:28.5385795-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 23</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:33.5389182-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 24</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:39.0236641-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 25</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:43.5395953-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 26</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:48.5248997-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 27</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:53.5252372-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 28</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:26:58.5255767-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 29</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:03.5259143-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 30</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:08.5262528-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 31</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:13.5265907-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 32</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:18.5281777-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 33</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:23.528516-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 34</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:28.5288544-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 35</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:33.5291927-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 36</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:38.5295311-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 37</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:43.5298701-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 38</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-05-11T00:27:48.530208-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 39</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

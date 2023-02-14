@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>test</RecipeName>
+  <RecipeDescription>hhh</RecipeDescription>
+  <Ingredients>
+    <PumpID>1</PumpID>
+    <AmountInFlOz>5</AmountInFlOz>
+    <LiquidName>Dr. Pepper</LiquidName>
+    <DispenseTime>0</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>4</PumpID>
+    <AmountInFlOz>0</AmountInFlOz>
+    <LiquidName>Rum</LiquidName>
+    <DispenseTime>0</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>3</PumpID>
+    <AmountInFlOz>0</AmountInFlOz>
+    <LiquidName>Margarita Mix</LiquidName>
+    <DispenseTime>0</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>3</PumpID>
+    <AmountInFlOz>0</AmountInFlOz>
+    <LiquidName>Margarita Mix</LiquidName>
+    <DispenseTime>0</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <HasErrors>false</HasErrors>
+  <ErrorMsg>Recipe Has No Igredients.</ErrorMsg>
+  <RecipeRunning>false</RecipeRunning>
+  <RecipeCompleted>false</RecipeCompleted>
+</Recipe>

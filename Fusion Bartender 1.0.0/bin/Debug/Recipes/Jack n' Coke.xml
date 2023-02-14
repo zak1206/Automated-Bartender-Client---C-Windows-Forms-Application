@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>Jack n' Coke</RecipeName>
+  <RecipeDescription>Jack Daniels + Coca Cola</RecipeDescription>
+  <Ingredients>
+    <PumpID>2</PumpID>
+    <AmountInFlOz>5</AmountInFlOz>
+    <LiquidName>Coke</LiquidName>
+    <DispenseTime>6300</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>1</PumpID>
+    <AmountInFlOz>5</AmountInFlOz>
+    <LiquidName>Jose Cuervo</LiquidName>
+    <DispenseTime>6300</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <CreationDate>2022-10-10T21:47:18.6178042-07:00</CreationDate>
+  <HasErrors>false</HasErrors>
+  <RecipeRunning>false</RecipeRunning>
+  <Downloads>0</Downloads>
+  <Like>0</Like>
+  <Dislikes>0</Dislikes>
+  <IsBlocked>0</IsBlocked>
+  <FollowersGained>0</FollowersGained>
+  <RecipeCompleted>false</RecipeCompleted>
+  <PathToIcon>G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Drink Icons\012-mate de coca.png</PathToIcon>
+</Recipe>

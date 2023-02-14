@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{30CB70FE-B62D-4691-951C-E463CCB3AAA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Fusion_Bartender_1._0._0</RootNamespace>
+    <AssemblyName>Fusion Bartender 1.0.0</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.35, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.Instrumentation, Version=14.1.0.35, Culture=neutral, PublicKeyToken=f90dc37c26666a67, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data">
+      <HintPath>Libs\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySQL.Utility, Version=8.10.3.0, Culture=neutral, PublicKeyToken=d3a591743ba4a4ea, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Libs\MySQL.Utility.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.ConfigurationManager, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Configuration.ConfigurationManager.5.0.0\lib\net461\System.Configuration.ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Security.AccessControl, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.AccessControl.5.0.0\lib\net461\System.Security.AccessControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Permissions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Permissions.5.0.0\lib\net461\System.Security.Permissions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Principal.Windows, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alerts.cs" />
+    <Compile Include="Arduino.cs" />
+    <Compile Include="DB\MySQL.cs" />
+    <Compile Include="Drinks.cs" />
+    <Compile Include="FormCreateRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCreateRecipe.Designer.cs">
+      <DependentUpon>FormCreateRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGlobalRecipes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGlobalRecipes.Designer.cs">
+      <DependentUpon>FormGlobalRecipes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormManualPouring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormManualPouring.Designer.cs">
+      <DependentUpon>FormManualPouring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewsFeed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewsFeed.Designer.cs">
+      <DependentUpon>FormNewsFeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSettings.Designer.cs">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogViewer.Designer.cs">
+      <DependentUpon>FormLogViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHome.Designer.cs">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMainScreen.Designer.cs">
+      <DependentUpon>FormMainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logs.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recipe.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="User.cs" />
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\IUpdate.cs" />
+    <EmbeddedResource Include="FormCreateRecipe.resx">
+      <DependentUpon>FormCreateRecipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGlobalRecipes.resx">
+      <DependentUpon>FormGlobalRecipes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormManualPouring.resx">
+      <DependentUpon>FormManualPouring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewsFeed.resx">
+      <DependentUpon>FormNewsFeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSettings.resx">
+      <DependentUpon>FormSettings.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogViewer.resx">
+      <DependentUpon>FormLogViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHome.resx">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMainScreen.resx">
+      <DependentUpon>FormMainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_window_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximize_window_26px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window_24px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_pull_down_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_topic_push_notification_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_48px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_expand_arrow_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_48px_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_48px_3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_notification_48px_5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_menu_48px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_menu_48px_2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Options_Icon_Unclicked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Options_Icon_Clicked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message_link_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_groups_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_50px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete_50px_Hovered.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimize_window_50px_Hovered.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Unknown_User.png" />
+    <None Include="bin\Debug\Drink Icons\001-milkshake.png" />
+    <Content Include="AutoLogin.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Drink Icons\001-milkshake.png" />
+    <Content Include="Drink Icons\002-cocktail.png" />
+    <Content Include="Drink Icons\003-hot chocolate.png" />
+    <Content Include="Drink Icons\004-dalgona.png" />
+    <Content Include="Drink Icons\005-infused water.png" />
+    <Content Include="Drink Icons\006-teapot.png" />
+    <Content Include="Drink Icons\007-hot coffee.png" />
+    <Content Include="Drink Icons\008-coconut drink.png" />
+    <Content Include="Drink Icons\009-orange juice.png" />
+    <Content Include="Drink Icons\010-Sake.png" />
+    <Content Include="Drink Icons\011-tequila.png" />
+    <Content Include="Drink Icons\012-mate de coca.png" />
+    <Content Include="Drink Icons\013-mineral water.png" />
+    <Content Include="Drink Icons\014-latte macchiato.png" />
+    <Content Include="Drink Icons\015-matcha.png" />
+    <Content Include="Drink Icons\016-milk.png" />
+    <None Include="Resources\ok_480px.png" />
+    <None Include="Resources\save_48px.png" />
+    <None Include="Resources\pump_50px.png" />
+    <None Include="Resources\pump-inactive.png" />
+    <None Include="Resources\pump-active.png" />
+    <None Include="Resources\ok_hand_48px.png" />
+    <None Include="Resources\thumbs_down_medium_light_skin_tone_48px.png" />
+    <None Include="Resources\thumbs_down_medium_skin_tone_48px.png" />
+    <None Include="Resources\unlike_100px.png" />
+    <None Include="Resources\checked_user_male_40px.png" />
+    <None Include="Resources\final-01 transparent .png" />
+    <Content Include="Libs\libeay32.dll" />
+    <Content Include="Libs\MySQL.Utility.dll" />
+    <Content Include="Libs\MySql.VisualStudio.CustomAction.dll" />
+    <Content Include="Libs\ssleay32.dll" />
+    <None Include="Resources\sandbox_30px.png" />
+    <Content Include="Utils\BadWordList.txt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

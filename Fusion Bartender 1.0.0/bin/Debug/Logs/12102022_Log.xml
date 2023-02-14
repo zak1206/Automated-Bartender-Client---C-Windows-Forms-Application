@@ -1,0 +1,1585 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-10-12T23:08:55.1660935-07:00</CreatedDate>
+  <FileName>12102022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.5240349-07:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.5310363-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Manual Pouring Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.5568065-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Global Recipes Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.5613547-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>News Feed Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.5993647-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>CreateRecipe Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.6403799-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>LogViewer Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.6703888-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Home Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.7314024-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.7760191-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.7760191-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8030244-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8060265-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8090249-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.811026-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8130272-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8150266-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8170268-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8190275-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8200279-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Update Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8210297-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Alert Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8210297-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Reconnect Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8210297-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Timers Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.8220291-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Checking If All Directories Exist.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.9309024-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.9309024-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:56.9469058-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.002068-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.002068-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.0756652-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.0756652-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.150189-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.150189-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.2262058-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.2262058-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.2282071-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.2282071-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3024648-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3024648-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3034648-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3034648-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3064951-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3064951-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.380993-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.380993-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3819939-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.3819939-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.4561688-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.4561688-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.4581696-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.4581696-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.5330658-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.5330658-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.5350657-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.5350657-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.536066-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.536066-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6109718-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6109718-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6129721-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6129721-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6875102-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6875102-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6885106-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.6885106-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.7629896-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.7629896-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.7659901-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.7659901-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.8399215-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.8399215-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.8419319-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.8419319-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.8429323-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.8429323-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9183494-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9183494-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9193496-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9193496-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9941383-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9941383-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9961406-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:57.9961406-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.07147-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.07147-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.0724706-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.0724706-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.1472733-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.1472733-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.1482741-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.1482741-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.1502741-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.1502741-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.2246263-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.2246263-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.2266264-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.2266264-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.3007243-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.3007243-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.303725-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.303725-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.3784576-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.3784576-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.3799009-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.3799009-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.4540978-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.4540978-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.4580212-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.4580212-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.5311128-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.5311128-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.533116-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.533116-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.5341155-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.5341155-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6077166-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6077166-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6107176-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6107176-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6844261-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6844261-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6864288-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.6864288-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.7606224-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.7606224-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.7626227-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.7626227-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.8382459-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.8382459-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.8392465-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.8392465-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.8412469-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.8412469-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9162612-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9162612-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9172608-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9172608-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9926734-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9926734-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9936762-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:58.9936762-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.0693825-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.0693825-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.0703651-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.0703651-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.1443296-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.1443296-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.1463322-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.1463322-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.1763634-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Name: Jack n' Coke.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2215416-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2215416-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2235421-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2235421-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2245417-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeName=JacknCoke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2245417-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeName=JacknCoke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.225542-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.225542-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2265432-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.2265432-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3014246-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3014246-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3024245-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3024245-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3776945-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3776945-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3796966-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.3796966-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4424752-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Pump 4 Liquid Name: Jack Daniels.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4534769-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4534769-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4554777-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4554777-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4584781-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump4Liquid=Jack Daniels</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4584781-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump4Liquid=Jack Daniels</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4584781-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.4584781-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.5334829-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.5334829-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.5334829-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.5334829-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.535485-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.535485-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6106946-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6106946-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6126858-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6126858-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6872334-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6872334-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6892333-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6892333-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.6942436-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Pump 4 Time To Run: 5040ms</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7622826-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7622826-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7652756-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump4TimeToRun=5040</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7652756-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump4TimeToRun=5040</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7652756-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7652756-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7672752-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.7672752-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.8425571-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.8425571-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.8435577-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.8435577-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.8445576-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.8445576-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.919378-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.919378-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9220685-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9220685-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9482176-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Pump 2 Liquid Name: Coke.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9955276-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9955276-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9985283-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump2Liquid=Coke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9985283-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump2Liquid=Coke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9985283-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9985283-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9995281-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:08:59.9995281-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.0742234-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.0742234-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.0752235-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.0752235-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.1513362-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.1513362-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.1523366-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.1523366-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.21384-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Pump 2 Time To Run: 6300ms</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2268525-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2268525-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2288441-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2288441-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2308435-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2308435-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2318551-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump2TimeToRun=6300</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.2318551-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump2TimeToRun=6300</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3054141-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3054141-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3064051-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3064051-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3084054-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3084054-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3834317-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3834317-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3844224-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.3844224-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.459212-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.459212-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.4612125-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.4612125-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.4652234-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Waiting To Receive 'recipeStarted=1'...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5367261-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5367261-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5377359-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeStarted=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5377359-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeStarted=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5397363-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5397363-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5407273-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeStarted=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5407273-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeStarted=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5417367-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.5417367-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.616983-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.616983-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.616983-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: RECIPE: Running Recipe: JacknCoke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:00.616983-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: RECIPE: Running Recipe: JacknCoke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.6161857-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.6161857-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.6161857-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeStarted=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.6161857-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeStarted=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.7169163-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump2Running=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.7169163-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump2Running=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.7419221-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump1Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.7419221-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump1Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.766931-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump3Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.766931-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump3Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.7909389-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump4Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.7909389-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump4Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.8159537-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump5Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.8159537-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump5Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.8409491-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump6Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.8409491-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump6Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.866955-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump7Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.866955-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump7Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.8914105-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump8Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.8914105-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump8Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.9164258-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: RECIPE: Pouring Coke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.9164258-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: RECIPE: Pouring Coke</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.9174163-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:01.9174163-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.2169336-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump2Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.2169336-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump2Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.4674393-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump4Running=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.4674393-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump4Running=1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.4915919-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump1Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.4915919-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump1Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5165888-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump2Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5165888-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump2Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5415961-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump3Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5415961-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump3Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5666095-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump5Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5666095-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump5Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5926059-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump6Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.5926059-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump6Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6177629-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump7Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6177629-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump7Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6427586-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump8Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6427586-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump8Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6665116-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: RECIPE: Pouring Jack Daniels</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6665116-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: RECIPE: Pouring Jack Daniels</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6675112-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:08.6675112-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:13.7075537-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: pump4Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:13.7075537-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: pump4Running=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:14.2567602-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:14.2567602-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:19.1639972-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: recipeRunning=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T23:09:19.1639972-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: recipeRunning=0</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

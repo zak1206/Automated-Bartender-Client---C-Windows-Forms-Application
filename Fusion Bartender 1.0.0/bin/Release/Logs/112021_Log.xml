@@ -1,0 +1,405 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-01-01T22:38:38.0627158-06:00</CreatedDate>
+  <FileName>112021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:38.0897203-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:38.1417323-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:38.2857641-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:39.2795432-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:40.2812772-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:41.2794369-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:42.2790561-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:43.2789216-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:44.2787906-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:45.278387-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:46.279112-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:47.2779177-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:48.278268-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:49.2777325-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:50.2783046-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:50.8628829-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:51.2777409-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:52.2777828-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:52.6657695-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:53.2777786-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:54.2782804-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:55.2767533-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:56.2777568-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:57.2772679-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:57.3012733-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:58.2772144-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:59.2768318-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:38:59.7697577-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:00.2770517-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:01.2768522-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:02.2758029-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:03.2767796-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:04.2760541-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:05.275876-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:06.2758215-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:06.9097845-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Settings.xml Saved.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:06.9097845-06:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings.xml File Location Changed To: C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Settings\Settings.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:07.2757807-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:08.2758025-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:09.2760117-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:10.2755861-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:11.2760543-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:12.275391-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:13.2751123-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:14.2750593-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:15.2746983-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:16.2752347-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:17.275056-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:18.2745747-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:19.2747117-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:20.2740526-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:21.2748136-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:22.2740791-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:23.2740623-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:24.2738361-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:25.272763-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:26.2737648-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:27.2727728-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:28.2727586-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:29.2737834-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:30.273072-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:31.2730817-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:32.2727587-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:33.2723918-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:34.2729766-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:35.2719998-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:36.2727651-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:37.272085-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:38.2717729-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:39.2722569-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:40.272069-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:41.2712229-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:42.272085-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:43.2710682-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:44.2717775-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:45.2702975-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:46.2710674-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:47.2710772-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:48.2708097-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-01-01T22:39:49.2699371-06:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: ?</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

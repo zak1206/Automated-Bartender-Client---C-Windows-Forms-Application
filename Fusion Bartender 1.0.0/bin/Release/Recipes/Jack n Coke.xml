@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>Jack n Coke</RecipeName>
+  <RecipeDescription>Jack Daniels + Coca Cola</RecipeDescription>
+  <Ingredients>
+    <PumpID>4</PumpID>
+    <AmountInFlOz>4</AmountInFlOz>
+    <LiquidName>Jack Daniels</LiquidName>
+    <DispenseTime>5040</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>2</PumpID>
+    <AmountInFlOz>5</AmountInFlOz>
+    <LiquidName>Coke</LiquidName>
+    <DispenseTime>6300</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <HasErrors>false</HasErrors>
+  <RecipeRunning>false</RecipeRunning>
+  <RecipeCompleted>false</RecipeCompleted>
+  <PathToIcon>C:\Users\zrowton\Desktop\Personal Stuff\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Drink Icons\044-whiskey.png</PathToIcon>
+</Recipe>

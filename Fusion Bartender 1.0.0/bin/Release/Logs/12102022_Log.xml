@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-10-12T21:06:30.7123596-07:00</CreatedDate>
+  <FileName>12102022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:30.7463672-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:30.8013887-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:36.2687176-07:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:36.4377269-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>The following serial ports were found: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:36.4387273-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>		COM6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:38.827563-07:00</LogTime>
+    <Tag>ERROR</Tag>
+    <Message>Could NOT save Settings.xml - Could not find a part of the path 'C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Settings\Settings.xml'.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:39.369758-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Saving Arduino COM: COM6.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:39.369758-07:00</LogTime>
+    <Tag>ERROR</Tag>
+    <Message>Could NOT save Settings.xml - Could not find a part of the path 'C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Settings\Settings.xml'.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:39.369758-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Connecting To Arduino...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:39.4190697-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Connection To Arduino Was Successful!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:40.9365591-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:45.7976609-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 2</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:50.7810355-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 3</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-12T21:06:55.7767577-07:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 4</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

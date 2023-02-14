@@ -1,0 +1,5240 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2021-07-17T23:43:00.6063187-05:00</CreatedDate>
+  <FileName>1772021_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.6163027-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.6556024-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.6556024-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.6645782-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.6765463-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.6765463-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.7274333-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.7274333-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.7775551-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.7775551-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.8281682-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.8281682-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.8544584-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.866947-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.878347-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.878347-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.9086051-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.9272745-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.9341285-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.9642409-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.9865308-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:00.9895488-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.0196406-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.0381852-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.0445856-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.0752681-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.1006853-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.1021564-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.1665003-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.1674964-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.1795044-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.1862372-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.2464324-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.2465521-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.2549825-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.2906755-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.2976661-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.3000648-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.3226811-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.3512802-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.3522527-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.3783716-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.4084626-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.4223603-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.4334841-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.4638394-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.4876368-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.489635-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.5194099-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.5444252-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.5444252-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.5744631-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.600309-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.6102655-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.6302376-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.6559891-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.66314-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.6856552-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.711213-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.7252654-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.7416312-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.7662908-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.7887421-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.7968822-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.8221377-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.8502769-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.8722497-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.8722497-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.902315-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.9165187-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.9280753-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.9574542-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.9762691-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:01.9831503-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.0132468-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.0386693-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.0386693-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.0686863-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.0945974-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.1038036-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.1246107-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.1496693-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.1624499-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.1799597-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.2057293-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.2268222-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.2352771-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.261139-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.2916038-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.311-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.311-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.3750503-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.3750503-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.3870519-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.3967031-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.4163548-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.4218629-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.4521556-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.4774634-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.5266858-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.5266858-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.5766656-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.5766656-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.6274845-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.6274845-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.6777122-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.6777122-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.727891-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.727891-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.7776886-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.7776886-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.8279065-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.8279065-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.8786627-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.8786627-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.8886491-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.9082209-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.9156177-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.9342472-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.9642613-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.9757325-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:02.9900819-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.0199133-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.0435057-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.0453339-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.0753361-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.1007775-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.1007775-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.1304141-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.1564065-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.1813952-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.2061079-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.2061079-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.2368266-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.2432088-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.2615163-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.2918322-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.294365-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.3169223-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.3476181-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.3596685-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.3726123-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.4033-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.4200161-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.4285221-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.4583136-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.4836272-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.5335566-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.5335566-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.5836682-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.5836682-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.6335557-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.6335557-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.6842449-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.6842449-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.7338011-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.7338011-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.7845387-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.7845387-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.8338951-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.8338951-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.8657928-05:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.8842816-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.8842816-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.9173892-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.935265-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.935265-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.9400266-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.9655248-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.9910405-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:03.9933689-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.0210931-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.0466596-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.0614815-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.0768389-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.1022639-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.1167678-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.1325349-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.1576598-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.1880295-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.1926474-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.2132903-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.2436346-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.2551052-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.2688151-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.2990709-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.3235884-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.3265799-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.3537698-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.3796832-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.3808754-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.4093381-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.4301772-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.4350732-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.4649541-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.4903321-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.4927472-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.5202584-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.545929-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.5526605-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.5762812-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.6013707-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.6235014-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.6314647-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.656942-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.6890527-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.7068041-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.7068041-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.7371964-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.7434465-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.7623378-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.792677-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.8149372-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.8179998-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.8482584-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.8661184-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.8734041-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.9037567-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.9293642-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.9365564-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.9588589-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:04.9847797-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.0123833-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.0343367-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.0343367-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.060541-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.0644241-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.0902498-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.1203354-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.1278405-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.1461476-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.1756148-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.1829122-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.2014975-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.2314381-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.2488257-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.2569453-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.2869376-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.3121904-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.3166907-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.3421977-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.3677612-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.376154-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.3978987-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.4229407-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.4387115-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.4534926-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.478581-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.5084534-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.5283963-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.5283963-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.55851-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.561337-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.5843676-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.6140414-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.6386945-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.638782-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.6702498-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.695396-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.6963941-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.7247241-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.7422182-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.7503805-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.7806548-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.8057685-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.8106699-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.8360472-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.861531-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.8680784-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.8917038-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.9172178-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.9379506-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.9474171-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:05.9725371-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.000553-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.022179-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.022179-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.0525705-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.0640313-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.0781609-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.1081883-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.1222632-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.1337445-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.1638617-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.186991-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.1890653-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.2193703-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.244727-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.2484354-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.2744252-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.299539-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.308203-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.3303708-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.35575-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.3740863-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.3857548-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.4116612-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.4372151-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.4608021-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.4608021-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.4915624-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.5002568-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.5166679-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.546723-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.5578856-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.5723381-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.6024351-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.6214457-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.6273989-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.6575911-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.6813762-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.6830149-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.7134032-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.7386392-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.748276-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.7695996-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.7946017-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.8345677-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.8438-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.8438-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.8743857-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.8857155-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.8994202-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.9297717-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.9463383-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.9548909-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:06.9849709-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.0099203-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.0099203-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.0405624-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.0660166-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.0675841-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.0962201-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.117887-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.1218632-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.1515367-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.1771569-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.2044827-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.2267737-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.2267737-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.2573234-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.2581607-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.2825482-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.3048873-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.3125873-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.3382709-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.3680392-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.3753084-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.3928343-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.423721-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.4376902-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.4489888-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.4793396-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.5011334-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.5041276-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.5344012-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.5598758-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.5603777-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.5900202-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.6148039-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.621774-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.6456596-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.6715244-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.6867656-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.7014629-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.7266298-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.7554551-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.776403-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.776403-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.8066103-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.8097669-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.8322609-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.862276-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.8760329-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.8875013-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.9176052-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.9334994-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.9426063-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.9736942-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:07.9985904-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.0024508-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.0290862-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.0539831-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.0707947-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.0842876-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.1092823-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.1240059-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.1400593-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.1649685-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.1857083-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.1954908-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.2209004-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.2507965-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.2701033-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.2701033-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.3011321-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.3199546-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.3261601-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.35642-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.367254-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.3816921-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.4115511-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.4375137-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.4416015-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.4672576-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.4926054-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.5013915-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.5228643-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.5484616-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.5654122-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.5783013-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.6038399-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.621355-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.6339347-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.6596157-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.6969336-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.7088239-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.7088239-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.7386265-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.7493599-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.7646271-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.7947259-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.8101359-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.8204198-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.8504766-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.8737517-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.8757439-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.9056675-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.9311929-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.935581-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.9611249-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.9864262-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:08.9961653-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.0168015-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.0420703-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.059207-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.0725018-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.0976868-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.125445-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.1474041-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.1474041-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.1777056-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.1954182-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.2027-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.2331929-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.2423866-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.258829-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.2889246-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.3091729-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.314198-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.3436821-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.3696626-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.3727104-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.4000065-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.4251671-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.4345042-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.4547979-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.4807346-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.4985835-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.5108648-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.5363784-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.5661155-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.585916-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.585916-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.6159229-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.6321664-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.6413362-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.6710807-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.6789871-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.6970944-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.7268494-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.7421856-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.7523948-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.7827612-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.8079008-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.8125564-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.8381002-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.8636027-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.8666656-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.8934399-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.9189306-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.943787-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.968973-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.968973-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:09.9992162-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.0077255-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.0240984-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.0543776-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.0583653-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.0801412-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.1103623-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.1297581-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.1353681-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.1658214-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.1909881-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.1955385-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.2213931-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.2463622-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.2623232-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.2769094-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.3022589-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.3183983-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.3323528-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.3574678-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.3778549-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.3868322-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.4129306-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.4434169-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.462579-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.462579-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.4932721-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.504125-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.5187955-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.5487375-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.5654158-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.5735174-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.6038793-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.6295991-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.6437628-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.6596558-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.684966-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.6912961-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.7147436-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.7405889-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.7511225-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.7710403-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.7961437-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.8179989-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.8263818-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.8518163-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.8877318-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.9007571-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.9007571-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.9317887-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.9375576-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.9570954-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:10.9871744-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.0026744-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.0123907-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.0427183-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.0678935-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.0715814-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.0983817-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.1234218-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.1304341-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.1539331-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.1787805-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.1915833-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.2093202-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.2345992-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.2592133-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.2842553-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.2842553-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.3149682-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.3179587-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.3401312-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.3702324-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.3737242-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.3956968-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.4256066-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.4356751-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.4512861-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.4821025-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.5069492-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.5119351-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.5367819-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.5612649-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.5612649-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.5922579-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.6168001-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.6197924-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.6475397-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.6734941-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.6859186-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.703078-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.7281471-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.7431119-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.7585238-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.783626-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.8038081-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.8136544-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.8396502-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.8694199-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.8898078-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.8898078-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.9198929-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.945567-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.9596569-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:11.9748366-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.00024-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.0052784-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.0307626-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.0559962-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.0744742-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.0859836-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.1117136-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.1370026-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.1615389-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.1615389-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.191713-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.191713-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.2168906-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.2466283-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.2573298-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.2726581-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.3028859-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.3240829-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.3280693-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.3581822-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.3839913-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.3899179-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.4133965-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.4389632-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.4389632-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.4694229-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.4946424-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.5080159-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.5246679-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.5502273-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.5715241-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.5802117-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.6056232-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.6225664-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.6356854-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.6610492-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.6914276-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.7109353-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.7109353-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.7414277-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.7636585-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.7666487-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.7966415-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.8227002-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.8296869-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.85233-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.8775803-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.8775803-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.9076769-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.9327138-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.9461917-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.963087-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.9888098-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:12.9961287-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.0188274-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.0453498-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.0601412-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.0738239-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.0996219-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.1251378-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.1487275-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.1487275-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.1781433-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.1790296-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.204953-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.2343044-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.2472399-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.26038-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.2903394-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.3094263-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.3153904-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.3460521-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.3714382-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.3735039-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.4019552-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.4272704-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.438556-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.4568128-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.4820535-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.4956099-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.5124579-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.5380838-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.5608367-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.5881166-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.5881166-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.6173151-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.623698-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.6426823-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.6737088-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.6853338-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.6987605-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.7292177-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.7469102-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.7544166-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.7840304-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.8084819-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.809981-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.8395694-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.8655387-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.8765691-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.895605-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.9210719-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.9404937-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.9512181-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:13.9767141-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.002481-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.0262995-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.0262995-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.0565339-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.0634025-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.0818074-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.1128243-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.1308281-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.137869-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.1677417-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.1889431-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.1925473-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.2233367-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.2485838-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.256596-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.2788979-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.3037291-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.3046656-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.3337597-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.3595843-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.3734918-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.3899809-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.4144375-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.4333828-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.4447862-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.4708042-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.500118-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.5204478-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.5204478-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.5507952-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.5607178-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.5760597-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.6057723-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.6207196-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.6315495-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.6618051-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.6835097-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.687233-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.7170872-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.7425551-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.7469382-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.7728126-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.7981378-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.8106302-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.8276819-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.8537797-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.8897689-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9033269-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9033269-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9334527-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9404741-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9589771-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9890507-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:14.9927383-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.0140121-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.0447058-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.0649141-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.0699208-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.1000749-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.1204559-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.1251037-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.1556635-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.1808749-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.1814172-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.2113273-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.2363754-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.2467197-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.2666238-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.2922804-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.3157284-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.3419795-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.3419795-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.3718555-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.3718555-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.3975623-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.4273125-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.4319565-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.4524338-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.4834107-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.5082939-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.5120522-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.5383366-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.5546013-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.5636299-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.5939651-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.6186501-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.6435724-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.6691736-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.6691736-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.6935527-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.6996611-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.7246055-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.755011-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.760542-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.7804681-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.8070818-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.8101983-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.8357338-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.8657845-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.8788775-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.8920931-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.9218299-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.9510851-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.9572404-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.9770582-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:15.9957252-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.002817-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.0328074-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.0580423-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.0583611-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.0881853-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.1141356-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.1326506-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.1433639-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.1691789-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.1965253-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.2189413-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.2189413-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.2491458-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.2559914-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.2739323-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.304174-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.3179422-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.3301826-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.3603017-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.3772449-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.3853818-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.415512-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.4384179-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.4409005-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.4713931-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.4966815-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.502426-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.5267698-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.5528923-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.5746131-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6017757-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6017757-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6240257-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6320225-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6576732-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6878684-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.6878684-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.7125018-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.7425133-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.7492529-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.7687604-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.7992088-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.8108277-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.823949-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.8537932-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.8795631-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.8795631-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.9101497-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.9401057-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.9506113-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.9655992-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.9905652-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:16.9954187-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.0208794-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.0460283-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.066969-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.0760554-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.1016914-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.1221277-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.1316795-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.1568803-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.1792073-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.2066554-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.2066554-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.2365542-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.2471699-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.2627758-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.2928289-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.307553-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.317409-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.3482549-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.373749-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.373749-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.4038984-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.4290132-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.4385789-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.4593584-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.4846257-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.5016411-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.5145953-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.539872-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.5625496-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.5902204-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.5902204-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.6196617-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.6216699-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.645474-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.6756631-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.6981631-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.7008538-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.7312042-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.7410805-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.7565433-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.7868875-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.8094965-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.8123784-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.84196-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.8676356-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.8825928-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.8977629-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.9229821-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.9466477-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.9728106-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.9728106-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:17.9938016-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.0029593-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.0286467-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.0586162-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.0607016-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.083919-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.1141935-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.1234831-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.1398623-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.1697538-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.1946506-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.1985446-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.2256134-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.2509937-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.2677677-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.2808695-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.3060799-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.3250501-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.336006-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.3614818-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.3838366-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.4105527-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.4105527-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.441642-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.4437612-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.4669449-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.4970725-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.5071136-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.5224093-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.5528038-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.5614353-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.5782502-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.6080432-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.6202481-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.6338217-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.6638576-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.6889955-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.696408-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.7189839-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.7446021-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.7626782-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.77465-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.800003-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.8261232-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.8502272-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.8502272-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.883455-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.8930367-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.9053049-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.9356646-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.9476661-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.9611717-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.9910251-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:18.9934619-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.0163116-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.0464074-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.0705986-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.0717422-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.1028118-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.130537-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.1435725-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.1576744-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.183273-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.1967891-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.213348-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.2385176-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.2525621-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.2688573-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.2937964-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.3175289-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.343163-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.343163-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.3737572-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.3899285-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.3989009-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.42958-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.4359647-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.4546777-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.4846558-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.5028167-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.5105708-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.5404496-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.5616505-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.5657891-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.5959133-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.6216294-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.6241799-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.6516073-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.6771346-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.6855478-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.7070904-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.7328925-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.7502703-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.7624619-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.7879012-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.8118328-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.8376441-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.8376441-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.8679352-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.86861-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.893666-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.9237124-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.9361867-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.9491091-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.9792992-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:19.9982905-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.0042786-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.0347855-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.0599265-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.062655-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.0899518-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.1149668-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.1198603-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.1457373-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.171149-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.183508-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.2013028-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.226499-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.2545721-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.2762442-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.2762442-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.3065519-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.3168097-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.3320964-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.3621969-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.3835331-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.387355-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.4173789-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.4416416-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.442652-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.4724307-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.4971183-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.4981193-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.5287541-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.5539512-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.5706233-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.5839837-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.6097929-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Temperature:  F</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.6530994-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.6590421-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Message Recieved: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.6590421-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Connected!</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.686469-05:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Arduino Command Sent: GetTempHum()=0</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2021-07-17T23:43:20.6896116-05:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Msg: Humidity:  %</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

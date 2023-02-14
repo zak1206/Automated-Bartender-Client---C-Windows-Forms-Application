@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-03-23T16:15:08.9534345-05:00</CreatedDate>
+  <FileName>2332022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-03-23T16:15:08.9589705-05:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>New Log File Added.</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

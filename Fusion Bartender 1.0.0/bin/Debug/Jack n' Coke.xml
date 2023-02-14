@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>Jack n' Coke</RecipeName>
+  <RecipeDescription>Margarita Mixer + Tequila</RecipeDescription>
+  <Ingredients>
+    <PumpID>1</PumpID>
+    <AmountInFlOz>6</AmountInFlOz>
+    <LiquidName>Jack Daniels</LiquidName>
+    <DispenseTime>7560</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>2</PumpID>
+    <AmountInFlOz>4</AmountInFlOz>
+    <LiquidName>Coke</LiquidName>
+    <DispenseTime>5040</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <HasErrors>false</HasErrors>
+  <RecipeRunning>false</RecipeRunning>
+  <RecipeCompleted>false</RecipeCompleted>
+</Recipe>

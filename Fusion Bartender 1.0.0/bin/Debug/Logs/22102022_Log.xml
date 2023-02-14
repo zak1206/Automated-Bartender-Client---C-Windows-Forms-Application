@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-10-22T00:54:02.9582771-06:00</CreatedDate>
+  <FileName>22102022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:03.9136694-06:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:03.9236701-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Manual Pouring Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:03.9576777-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Global Recipes Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:03.9626808-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>News Feed Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.0136894-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>CreateRecipe Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.0536999-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>LogViewer Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.0847071-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Home Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.1857321-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2297383-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2297383-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2597452-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2677471-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2697474-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2737487-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2757486-06:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2767492-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Update Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2767492-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Alert Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2767492-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Reconnect Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2767492-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Timers Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.2777495-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Checking If All Directories Exist.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:04.3557671-06:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:14.3167078-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 1</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:19.3104363-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 2</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:24.3125947-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 3</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:29.3311347-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 4</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:34.3351508-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 5</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:39.3294254-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:44.3137185-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 7</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:49.3162038-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 8</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:54.3253492-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 9</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-22T00:54:59.3325304-06:00</LogTime>
+    <Tag>ARDUINO</Tag>
+    <Message>Arduino Connection Retry: 10</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

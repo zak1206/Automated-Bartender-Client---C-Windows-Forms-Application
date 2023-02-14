@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>Coca Cola</RecipeName>
+  <RecipeDescription>Straight Coca Cola!</RecipeDescription>
+  <Ingredients>
+    <PumpID>2</PumpID>
+    <AmountInFlOz>10</AmountInFlOz>
+    <LiquidName>Coke</LiquidName>
+    <DispenseTime>12600</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <HasErrors>false</HasErrors>
+  <RecipeRunning>false</RecipeRunning>
+  <RecipeCompleted>false</RecipeCompleted>
+  <PathToIcon>G:\My Drive\2. Software Development\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Drink Icons\036-coke.png</PathToIcon>
+</Recipe>

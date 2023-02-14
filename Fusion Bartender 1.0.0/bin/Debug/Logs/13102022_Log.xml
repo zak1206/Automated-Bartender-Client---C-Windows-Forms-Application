@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<Log_x0020_Listing xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatedDate>2022-10-13T23:53:31.8434722-07:00</CreatedDate>
+  <FileName>13102022_Log.xml</FileName>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.2207753-07:00</LogTime>
+    <Tag>USERS</Tag>
+    <Message>User File Loaded Successfully. File: ZRowt.xml</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.2287775-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Manual Pouring Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.2537926-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Global Recipes Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.2577935-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>News Feed Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.3008021-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>CreateRecipe Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.3408121-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>LogViewer Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.3708232-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Home Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.4412161-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings Form Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.4766991-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.4766991-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Settings File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.5087158-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.510707-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.5127077-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.5147173-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.5167175-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.518718-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.5247101-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.5267209-07:00</LogTime>
+    <Tag>Startup</Tag>
+    <Message>Recipe File Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.52772-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Update Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.52772-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Alert Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.52772-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Reconnect Timer Added.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.52772-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Timers Setup Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.52772-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>Checking If All Directories Exist.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:33.6250357-07:00</LogTime>
+    <Tag>STARTUP</Tag>
+    <Message>FormMain Loaded Successfully.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:38.8681669-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Waiting To Receive 'recipeRunning=1'...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:43.0989805-07:00</LogTime>
+    <Tag>ACTION</Tag>
+    <Message>Settings Form Loaded Successfully</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:43.2695737-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>The following serial ports were found: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:43.2695737-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>		COM6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:43.2915786-07:00</LogTime>
+    <Tag>ERROR</Tag>
+    <Message>Could NOT save Settings.xml - Could not find a part of the path 'C:\Users\ZRowt\Desktop\Projects\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Settings\Settings.xml'.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:55.5277063-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Waiting To Receive 'recipeRunning=1'...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:58.7174242-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>The following serial ports were found: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:53:58.7194125-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>		COM6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:02.5479184-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Pump 1 Liquid Name: Jose Cuervo.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:05.5475179-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>The following serial ports were found: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:05.549509-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>		COM6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:14.157421-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Waiting To Receive 'recipeRunning=1'...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:15.4593041-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Waiting To Receive 'recipeRunning=1'...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:17.6994683-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Waiting To Receive 'recipeRunning=1'...</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:54:50.2920706-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Downloading Recipe Pump 1 Liquid Name: Jose Cuervo.</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:55:01.8190108-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Disconmnecting From Arduino... COM6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:55:12.7353532-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>Disconmnecting From Arduino... COM6</Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:55:43.8606123-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>The following serial ports were found: </Message>
+  </LogEnteries>
+  <LogEnteries>
+    <LogTime>2022-10-13T23:55:43.8626133-07:00</LogTime>
+    <Tag>INFO</Tag>
+    <Message>		COM6</Message>
+  </LogEnteries>
+</Log_x0020_Listing>

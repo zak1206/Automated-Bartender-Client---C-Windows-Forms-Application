@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Recipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RecipeName>Test Recipe</RecipeName>
+  <RecipeDescription>sdkfjslkdfjsldkfjslkdfjslkfj</RecipeDescription>
+  <Ingredients>
+    <PumpID>0</PumpID>
+    <AmountInFlOz>10</AmountInFlOz>
+    <LiquidName>Coke</LiquidName>
+    <DispenseTime>0</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <Ingredients>
+    <PumpID>1</PumpID>
+    <AmountInFlOz>2</AmountInFlOz>
+    <LiquidName>Jack Daniels</LiquidName>
+    <DispenseTime>0</DispenseTime>
+    <Dispensing>false</Dispensing>
+    <isLiquor>false</isLiquor>
+    <isSoda>false</isSoda>
+    <isJuice>false</isJuice>
+  </Ingredients>
+  <CreatedBy>ZRowt</CreatedBy>
+  <CreationDate>1994-12-06T00:00:00</CreationDate>
+  <HasErrors>false</HasErrors>
+  <RecipeRunning>false</RecipeRunning>
+  <Downloads>1000</Downloads>
+  <Like>1000</Like>
+  <Dislikes>0</Dislikes>
+  <IsBlocked>0</IsBlocked>
+  <FollowersGained>1000</FollowersGained>
+  <RecipeCompleted>false</RecipeCompleted>
+  <PathToIcon>G:\My Drive\2. Software Development\1. Fusion Bartender\Fusion Bartender 1.0.0\Fusion Bartender 1.0.0\bin\Debug\Drink Icons\Drink_Unavailable.png</PathToIcon>
+</Recipe>
